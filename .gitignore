@@ -1,0 +1,17 @@
+# Executables and binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# High scores (generated runtime data)
+# Uncomment if you want to track a fresh leaderboard per machine
+# highscores.txt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.vscode/
+*.idea/
