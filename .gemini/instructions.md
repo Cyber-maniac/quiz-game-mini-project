@@ -12,3 +12,4 @@
   - Keep `quiz.c` zero-dependency (standard C libraries only + optional Windows VT100 activation).
   - Use `fgets()` for all inputs, never unchecked `scanf()`.
   - Check for existing running processes (`quiz.exe`) before rebuilding if permission errors occur.
+
